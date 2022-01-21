@@ -17,7 +17,7 @@ This project is under develpoment and things might not work yet.
   - Platformio (Arduino-Compatible)
   - Libraries used:
     - [Heltec: CubeCell Libraries](https://github.com/HelTecAutomation/CubeCell-Arduino)
-    - [Rob Tillaart: HX711] (https://github.com/RobTillaart/HX711)
+    - [Rob Tillaart: HX711](https://github.com/RobTillaart/HX711)
     - [ElectronicCats: Cayenne LPP](https://github.com/ElectronicCats/CayenneLPP)
     - [BBlanchon: ArduinoJSON](https://github.com/bblanchon/ArduinoJson)
   - measures load & sends values to the LoRaWAN network
